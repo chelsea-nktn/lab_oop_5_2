@@ -1,0 +1,14 @@
+C:\Users\79112\Desktop\VUZ\lab_oop_5_2\bin\Debug\net9.0\lab_oop_5_2.exe
+C:\Users\79112\Desktop\VUZ\lab_oop_5_2\bin\Debug\net9.0\lab_oop_5_2.deps.json
+C:\Users\79112\Desktop\VUZ\lab_oop_5_2\bin\Debug\net9.0\lab_oop_5_2.runtimeconfig.json
+C:\Users\79112\Desktop\VUZ\lab_oop_5_2\bin\Debug\net9.0\lab_oop_5_2.dll
+C:\Users\79112\Desktop\VUZ\lab_oop_5_2\bin\Debug\net9.0\lab_oop_5_2.pdb
+C:\Users\79112\Desktop\VUZ\lab_oop_5_2\obj\Debug\net9.0\lab_oop_5_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79112\Desktop\VUZ\lab_oop_5_2\obj\Debug\net9.0\lab_oop_5_2.AssemblyInfoInputs.cache
+C:\Users\79112\Desktop\VUZ\lab_oop_5_2\obj\Debug\net9.0\lab_oop_5_2.AssemblyInfo.cs
+C:\Users\79112\Desktop\VUZ\lab_oop_5_2\obj\Debug\net9.0\lab_oop_5_2.csproj.CoreCompileInputs.cache
+C:\Users\79112\Desktop\VUZ\lab_oop_5_2\obj\Debug\net9.0\lab_oop_5_2.dll
+C:\Users\79112\Desktop\VUZ\lab_oop_5_2\obj\Debug\net9.0\refint\lab_oop_5_2.dll
+C:\Users\79112\Desktop\VUZ\lab_oop_5_2\obj\Debug\net9.0\lab_oop_5_2.pdb
+C:\Users\79112\Desktop\VUZ\lab_oop_5_2\obj\Debug\net9.0\lab_oop_5_2.genruntimeconfig.cache
+C:\Users\79112\Desktop\VUZ\lab_oop_5_2\obj\Debug\net9.0\ref\lab_oop_5_2.dll
